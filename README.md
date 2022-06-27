@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Sara, and I am a student and a beginner to all things programming.
+
+- 🔭 I’m currently working on mostly school work assignments
+- 🌱 I’m currently learning how to write code in C++
+- 👯 I’m looking to collaborate on... I don't even know, yet!  
+- 🤔 I’m looking for help with expanding my knowledge outside of our classroom.  I'm hoping for more challenging and real-world practice
+- 💬 Ask me about my dogs.  They're awesome
+- 📫 How to reach me: sarabellus@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I just planted two Paw-Paw trees this year!  And they haven't died yet!  With any luck, I'll have fruit to share in 5 or so years.
 <!--
 **sarabellus/sarabellus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
